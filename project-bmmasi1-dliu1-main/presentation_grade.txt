@@ -1,0 +1,18 @@
+----------------------------------------
+Organization: 9
+Delivery: 7
+Content: 7
+Timing: 10 [14:00]
+Q/A: 9
+Notes:
+  - didn't introduce speakers
+  - good introduction to topic verbally, but no slide to go with it?
+  - again, examples were discussed, but would be nice to have some images (e.g.
+    when talking about images, why not show images of those types?)
+  - speech is clear and volume is generally good
+  - explanation of what you mean by "trustworthiness" could have been clearer
+  - a bit odd to introduce the dataset so late in the presentation
+  - some of the bits towards the end felt less practiced than the earlier parts
+  - very little in the way of results presentation
+
+Grade: 42/50
