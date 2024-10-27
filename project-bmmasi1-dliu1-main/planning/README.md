@@ -1,13 +1,3 @@
-# Timeline
-* upload your proposal to this directory as proposal.pdf
-* edit this README file to include your timeline.  Fill in the **We plan to accomplish** section for each week with specific steps you plan to have completed by the lab meeting that week.
-
-Each week, for the checkpoint you need to fill out by **Monday Night** (so I have a day to read it before lab):
-* Which of the goals have you accomplished
-* For the goals you did not accomplish, state the issue/problem that is blocking progress
-* Any questions you have.  This can help us prepare for the lab meeting.
-* Update your timeline/goals for the following week if needed
-
 -------
 ## Week 1 Planning
 
