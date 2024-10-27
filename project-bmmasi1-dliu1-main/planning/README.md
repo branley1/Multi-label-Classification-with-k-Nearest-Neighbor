@@ -1,4 +1,3 @@
--------
 ## Week 1 Planning
 
 ### Goals ###
