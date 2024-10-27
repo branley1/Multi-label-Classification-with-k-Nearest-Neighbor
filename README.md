@@ -1,8 +1,8 @@
 # Multi-label-Classification-with-k-Nearest-Neighbor
-A modified K-Nearest Neighbor (KNN) approach for multi-label classification, specifically applied to predicting EC-classes of substrate molecules. This implementation explores weighted neighbor voting based on predicted Hamming loss.
+A modified K-Nearest Neighbor (KNN) approach for multi-label classification, specifically applied to predicting EC-classes of substrate molecules. Our implementation explores weighted neighbor voting based on predicted Hamming loss.
 
 ## Overview
-Traditional classification typically assigns a single label to each example. However, real-world scenarios often require multiple labels per instance. This project implements a modified KNN algorithm that:
+Traditional classification typically assigns a single label to each example. However, real-world scenarios often require multiple labels per instance. In this project, we implement a modified KNN algorithm that:
 - Predicts multiple EC-classes for substrate molecules
 - Uses neighbor trustworthiness weighting
 - Compares performance against traditional KNN
